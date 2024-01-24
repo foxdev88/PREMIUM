@@ -8,7 +8,7 @@ pip install requests
 pip install bs4
 pip install stdiomask
 pip install hallo
-pip install lisensing
+pip install licensing
 git clone https://github.com/foxdev88/PREMIUM
 git pull
 cd PREMIUM
